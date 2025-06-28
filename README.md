@@ -1,4 +1,4 @@
-# Grocery-store-sales-analysis-python-Tableau
+# Store-sales-analysis-python
 
 The product database contains detailed information on grocery store transactions, providing insights into customer behavior, product preferences, and key financial metrics.
 
