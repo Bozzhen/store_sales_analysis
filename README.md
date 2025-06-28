@@ -1,7 +1,5 @@
 # Grocery-store-sales-analysis-python-Tableau
 
-![image](https://github.com/user-attachments/assets/c7a0c501-6077-4367-b5cb-bd30e0b07958)
-
 The product database contains detailed information on grocery store transactions, providing insights into customer behavior, product preferences, and key financial metrics.
 
 The dataset used in this project is publicly available: Dataset Link https://www.google.com/url?q=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1zeHP2Ihiw0KAfwWL3-h1HCPNgGKrTmX4%2Fedit%3Fgid%3D872187135%23gid%3D872187135.
